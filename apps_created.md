@@ -11,3 +11,7 @@
 ## WaterLog (2026-06-18)
 **Description:** A macOS app that tracks daily water intake with quick-add buttons for common amounts, a live progress bar against a configurable daily goal, and a full day-by-day history.
 **Theme:** Hydration/water intake tracking — monitoring daily fluid consumption toward a personal health goal.
+
+## SleepLog (2026-06-18)
+**Description:** A macOS app that logs each night's sleep by recording bedtime, wake time, and a 1–5 star quality rating with optional notes, then displays a chronological history alongside 7-day averages for duration and quality.
+**Theme:** Sleep quality and duration tracking — monitoring nightly rest patterns to surface trends in sleep health.
