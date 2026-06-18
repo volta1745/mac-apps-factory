@@ -7,3 +7,7 @@
 ## MoodLog (2026-06-18)
 **Description:** A macOS app that lets you log your emotional state throughout the day with a 5-level mood picker and optional notes, grouped by day with per-mood filtering.
 **Theme:** Mood/emotion diary — tracking emotional wellbeing across the day with timestamped entries.
+
+## WaterLog (2026-06-18)
+**Description:** A macOS app that tracks daily water intake with quick-add buttons for common amounts, a live progress bar against a configurable daily goal, and a full day-by-day history.
+**Theme:** Hydration/water intake tracking — monitoring daily fluid consumption toward a personal health goal.
