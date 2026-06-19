@@ -31,3 +31,7 @@
 ## ExerciseLog (2026-06-19)
 **Description:** A macOS app that logs workout sessions by recording exercise type (Running, Cycling, Strength, HIIT, Swimming, Yoga, Walking), duration, and intensity level, with a weekly stats bar showing session count, total minutes, and current daily streak, plus per-type filtering of the history list.
 **Theme:** Exercise/workout session tracking — recording individual training sessions to build awareness of activity frequency, volume, and consistency over time.
+
+## GratitudeLog (2026-06-19)
+**Description:** A macOS app that lets you record daily gratitude entries with a category tag (Family, Friends, Work, Health, Nature, Learning) and an optional reflection on why each item matters, with a day-streak counter, all-time count, and a history list filterable by category.
+**Theme:** Gratitude journaling — logging what you appreciate each day to build a mindfulness habit and surface patterns in what brings you joy.
