@@ -19,3 +19,7 @@
 ## FocusLog (2026-06-19)
 **Description:** A macOS app that lets you set a topic and duration (15–90 min), run a countdown timer with pause/resume, then log each completed or manually-stopped focus session with notes and view your full productivity history.
 **Theme:** Focus/deep-work session tracking — recording timed work blocks to build awareness of productive time spent.
+
+## ReadLog (2026-06-19)
+**Description:** A macOS app that logs book reading sessions by recording the book title, author, page range, and time spent, then shows a full history alongside weekly stats for sessions, pages read, and total reading time.
+**Theme:** Reading/learning log — tracking individual reading sessions to build awareness of books in progress and reading habits over time.
