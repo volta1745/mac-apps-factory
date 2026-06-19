@@ -23,3 +23,7 @@
 ## ReadLog (2026-06-19)
 **Description:** A macOS app that logs book reading sessions by recording the book title, author, page range, and time spent, then shows a full history alongside weekly stats for sessions, pages read, and total reading time.
 **Theme:** Reading/learning log — tracking individual reading sessions to build awareness of books in progress and reading habits over time.
+
+## MeditationLog (2026-06-19)
+**Description:** A macOS app that logs mindfulness and meditation sessions by recording type (breathing, body scan, loving-kindness, etc.), duration, and calmness level before and after, with streak tracking and a history filtered by meditation style.
+**Theme:** Meditation/mindfulness session tracking — recording how each practice session affects calmness to reveal the impact of a regular meditation habit.
