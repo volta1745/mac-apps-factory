@@ -27,3 +27,7 @@
 ## MeditationLog (2026-06-19)
 **Description:** A macOS app that logs mindfulness and meditation sessions by recording type (breathing, body scan, loving-kindness, etc.), duration, and calmness level before and after, with streak tracking and a history filtered by meditation style.
 **Theme:** Meditation/mindfulness session tracking — recording how each practice session affects calmness to reveal the impact of a regular meditation habit.
+
+## ExerciseLog (2026-06-19)
+**Description:** A macOS app that logs workout sessions by recording exercise type (Running, Cycling, Strength, HIIT, Swimming, Yoga, Walking), duration, and intensity level, with a weekly stats bar showing session count, total minutes, and current daily streak, plus per-type filtering of the history list.
+**Theme:** Exercise/workout session tracking — recording individual training sessions to build awareness of activity frequency, volume, and consistency over time.
