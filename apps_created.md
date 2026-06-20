@@ -39,3 +39,7 @@
 ## MealLog (2026-06-20)
 **Description:** A macOS app that records every meal and snack with what you ate, hunger level before eating (1–5), and satisfaction afterwards (1–5), grouped by day with per-type filtering and 7-day average stats.
 **Theme:** Meal diary — logging daily food intake and hunger/satiety signals to build awareness of eating habits over time.
+
+## SpendLog (2026-06-20)
+**Description:** A macOS app that records everyday purchases with category (Food, Transport, Shopping, Entertainment, Health, Utilities, Other), amount, and a note, displays a live budget ring showing how much of the daily budget has been used, and shows a full history grouped by day with daily totals.
+**Theme:** Daily spending tracker — logging purchases throughout the day to build awareness of spending habits and stay within a personal daily budget.
