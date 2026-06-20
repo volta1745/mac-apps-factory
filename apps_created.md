@@ -43,3 +43,7 @@
 ## SpendLog (2026-06-20)
 **Description:** A macOS app that records everyday purchases with category (Food, Transport, Shopping, Entertainment, Health, Utilities, Other), amount, and a note, displays a live budget ring showing how much of the daily budget has been used, and shows a full history grouped by day with daily totals.
 **Theme:** Daily spending tracker — logging purchases throughout the day to build awareness of spending habits and stay within a personal daily budget.
+
+## SymptomLog (2026-06-20)
+**Description:** A macOS app that logs physical symptoms throughout the day—selecting from common types (headache, fatigue, back pain, etc.) or entering custom ones—with a 1–5 severity rating, body location, timestamp, and optional notes, then displays a filterable history with today's count and average severity stats.
+**Theme:** Physical symptom diary — recording when and how severely symptoms occur to surface patterns and potential triggers over time.
