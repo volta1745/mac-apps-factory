@@ -35,3 +35,7 @@
 ## GratitudeLog (2026-06-19)
 **Description:** A macOS app that lets you record daily gratitude entries with a category tag (Family, Friends, Work, Health, Nature, Learning) and an optional reflection on why each item matters, with a day-streak counter, all-time count, and a history list filterable by category.
 **Theme:** Gratitude journaling — logging what you appreciate each day to build a mindfulness habit and surface patterns in what brings you joy.
+
+## MealLog (2026-06-20)
+**Description:** A macOS app that records every meal and snack with what you ate, hunger level before eating (1–5), and satisfaction afterwards (1–5), grouped by day with per-type filtering and 7-day average stats.
+**Theme:** Meal diary — logging daily food intake and hunger/satiety signals to build awareness of eating habits over time.
