@@ -47,3 +47,7 @@
 ## SymptomLog (2026-06-20)
 **Description:** A macOS app that logs physical symptoms throughout the day—selecting from common types (headache, fatigue, back pain, etc.) or entering custom ones—with a 1–5 severity rating, body location, timestamp, and optional notes, then displays a filterable history with today's count and average severity stats.
 **Theme:** Physical symptom diary — recording when and how severely symptoms occur to surface patterns and potential triggers over time.
+
+## SocialLog (2026-06-20)
+**Description:** A macOS app that logs social interactions throughout the day — who you connected with, interaction type (in-person, phone, video, text, group event), duration, and how each interaction affected your social energy (1 = very drained … 5 = very energized) — with today's stats bar, type filters, and search.
+**Theme:** Social interaction diary — recording conversations and meetings to reveal which types of social contact energize or drain you, helping you manage your social battery.
