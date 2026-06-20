@@ -51,3 +51,7 @@
 ## SocialLog (2026-06-20)
 **Description:** A macOS app that logs social interactions throughout the day — who you connected with, interaction type (in-person, phone, video, text, group event), duration, and how each interaction affected your social energy (1 = very drained … 5 = very energized) — with today's stats bar, type filters, and search.
 **Theme:** Social interaction diary — recording conversations and meetings to reveal which types of social contact energize or drain you, helping you manage your social battery.
+
+## EnergyLog (2026-06-20)
+**Description:** A macOS app that lets you log your personal vitality level throughout the day on a 1–5 scale (Exhausted → Peak), tag contributing factors (Good Sleep, Exercise, Stress, Caffeine, etc.), and review an energy arc chart for today plus distribution stats, 7-day averages, and top contributing factors over time.
+**Theme:** Personal energy/vitality tracking — recording moment-to-moment energy levels to surface patterns in what boosts or drains you throughout the day.
