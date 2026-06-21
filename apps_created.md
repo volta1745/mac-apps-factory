@@ -63,3 +63,7 @@
 ## BreakLog (2026-06-21)
 **Description:** A macOS app that logs intentional rest breaks during the workday — recording break type (micro-break, walk, stretch, lunch, power nap, etc.), duration, and a 1–5 refreshment rating, with today's stats bar and a type-filtered history.
 **Theme:** Work break quality tracking — logging how often and how well you rest during the day to build awareness of recovery habits and which break types leave you most refreshed.
+
+## OutdoorLog (2026-06-21)
+**Description:** A macOS app that logs every outdoor outing with activity type (walk, run, cycling, gardening, etc.), weather conditions, duration, and a 1–5 refreshment rating, tracking daily progress toward a 30-minute outdoor goal with a 7-day average and type-filtered history.
+**Theme:** Daily outdoor time tracking — recording how much time you spend outside each day and how refreshing each outing feels, to build awareness of nature exposure habits.
