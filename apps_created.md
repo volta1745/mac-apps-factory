@@ -71,3 +71,7 @@
 ## CreativeLog (2026-06-21)
 **Description:** A macOS app that logs creative work sessions — writing, music, drawing, photography, design, and more — recording type, project name, duration, and a 1–5 creative flow level, with a 7-day activity chart, time breakdown by creative type, and top-projects leaderboard.
 **Theme:** Creative session tracking — logging how much time you spend on each creative pursuit and how deeply "in the zone" you felt, to build awareness of creative output habits and identify your most productive projects.
+
+## SupplementLog (2026-06-21)
+**Description:** A macOS app that tracks your daily vitamin and supplement intake — define your personal stack (Vitamin D, Magnesium, Omega-3, etc.), check off each item as you take it, watch a live progress bar fill up, and review a full chronological history of past days.
+**Theme:** Vitamin and supplement intake tracking — logging which supplements you take each day to build compliance habits and identify gaps in your routine.
