@@ -55,3 +55,7 @@
 ## EnergyLog (2026-06-20)
 **Description:** A macOS app that lets you log your personal vitality level throughout the day on a 1–5 scale (Exhausted → Peak), tag contributing factors (Good Sleep, Exercise, Stress, Caffeine, etc.), and review an energy arc chart for today plus distribution stats, 7-day averages, and top contributing factors over time.
 **Theme:** Personal energy/vitality tracking — recording moment-to-moment energy levels to surface patterns in what boosts or drains you throughout the day.
+
+## SkillLog (2026-06-21)
+**Description:** A macOS app that tracks deliberate practice sessions for skills you're learning — guitar, Spanish, coding, sketching, and more — logging duration, difficulty (1–5), and notes per session, with per-skill stats for total time and daily practice streaks.
+**Theme:** Skill practice session tracking — recording how much you practice each skill to build awareness of deliberate practice habits and streak consistency over time.
