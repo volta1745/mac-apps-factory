@@ -67,3 +67,7 @@
 ## OutdoorLog (2026-06-21)
 **Description:** A macOS app that logs every outdoor outing with activity type (walk, run, cycling, gardening, etc.), weather conditions, duration, and a 1–5 refreshment rating, tracking daily progress toward a 30-minute outdoor goal with a 7-day average and type-filtered history.
 **Theme:** Daily outdoor time tracking — recording how much time you spend outside each day and how refreshing each outing feels, to build awareness of nature exposure habits.
+
+## CreativeLog (2026-06-21)
+**Description:** A macOS app that logs creative work sessions — writing, music, drawing, photography, design, and more — recording type, project name, duration, and a 1–5 creative flow level, with a 7-day activity chart, time breakdown by creative type, and top-projects leaderboard.
+**Theme:** Creative session tracking — logging how much time you spend on each creative pursuit and how deeply "in the zone" you felt, to build awareness of creative output habits and identify your most productive projects.
