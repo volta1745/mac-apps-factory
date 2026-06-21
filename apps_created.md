@@ -59,3 +59,7 @@
 ## SkillLog (2026-06-21)
 **Description:** A macOS app that tracks deliberate practice sessions for skills you're learning — guitar, Spanish, coding, sketching, and more — logging duration, difficulty (1–5), and notes per session, with per-skill stats for total time and daily practice streaks.
 **Theme:** Skill practice session tracking — recording how much you practice each skill to build awareness of deliberate practice habits and streak consistency over time.
+
+## BreakLog (2026-06-21)
+**Description:** A macOS app that logs intentional rest breaks during the workday — recording break type (micro-break, walk, stretch, lunch, power nap, etc.), duration, and a 1–5 refreshment rating, with today's stats bar and a type-filtered history.
+**Theme:** Work break quality tracking — logging how often and how well you rest during the day to build awareness of recovery habits and which break types leave you most refreshed.
