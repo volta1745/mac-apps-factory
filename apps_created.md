@@ -75,3 +75,7 @@
 ## SupplementLog (2026-06-21)
 **Description:** A macOS app that tracks your daily vitamin and supplement intake — define your personal stack (Vitamin D, Magnesium, Omega-3, etc.), check off each item as you take it, watch a live progress bar fill up, and review a full chronological history of past days.
 **Theme:** Vitamin and supplement intake tracking — logging which supplements you take each day to build compliance habits and identify gaps in your routine.
+
+## PostureLog (2026-06-22)
+**Description:** A macOS app that logs posture checks throughout the workday — rating each check as Good, Fair, or Poor, selecting affected body areas (neck, shoulders, upper/lower back, hips, wrists), recording a 0–5 discomfort level, and noting any corrective action taken, with today's stats and a full timestamped history.
+**Theme:** Posture and ergonomics tracking — logging how your posture looks at regular intervals to build body-awareness habits and surface patterns in discomfort and corrective actions over time.
