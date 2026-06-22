@@ -79,3 +79,7 @@
 ## PostureLog (2026-06-22)
 **Description:** A macOS app that logs posture checks throughout the workday — rating each check as Good, Fair, or Poor, selecting affected body areas (neck, shoulders, upper/lower back, hips, wrists), recording a 0–5 discomfort level, and noting any corrective action taken, with today's stats and a full timestamped history.
 **Theme:** Posture and ergonomics tracking — logging how your posture looks at regular intervals to build body-awareness habits and surface patterns in discomfort and corrective actions over time.
+
+## ScreenLog (2026-06-22)
+**Description:** A macOS app that logs every app and website session with category (Social Media, Work, Entertainment, Gaming, etc.), duration, and a mindful vs. mindless purpose rating, showing a live usage ring against a configurable daily screen time limit with category and purpose breakdowns.
+**Theme:** Digital screen time diary — recording which apps and websites you use, for how long, and whether each session was intentional or automatic, to build self-awareness of digital habits and reduce mindless scrolling.
