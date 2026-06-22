@@ -87,3 +87,7 @@
 ## VoiceLog (2026-06-22)
 **Description:** A macOS app that logs every voice usage session — singing, public speaking, teaching, podcast recording, rehearsal, or long conversation — recording duration, vocal strain level (1–5), whether a warm-up was done, and hydration status, with today's total voice time and average strain tracked at a glance.
 **Theme:** Vocal health and voice usage tracking — logging how much you use your voice and how strained it feels each session, to help singers, teachers, and speakers protect their vocal health and spot overuse patterns.
+
+## FastingLog (2026-06-22)
+**Description:** A macOS app that tracks intermittent fasting windows — choose a protocol (16:8, 18:6, 20:4, OMAD, or custom), start a fast, watch a live progress ring count down to your goal, then save completed fasts to a history with optional notes, protocol filters, and stats for streak, average duration, and longest fast.
+**Theme:** Intermittent fasting window tracking — recording when you eat and fast each day to build consistency with time-restricted eating protocols and surface patterns in fasting duration and goal adherence.
