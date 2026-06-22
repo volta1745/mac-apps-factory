@@ -91,3 +91,7 @@
 ## FastingLog (2026-06-22)
 **Description:** A macOS app that tracks intermittent fasting windows — choose a protocol (16:8, 18:6, 20:4, OMAD, or custom), start a fast, watch a live progress ring count down to your goal, then save completed fasts to a history with optional notes, protocol filters, and stats for streak, average duration, and longest fast.
 **Theme:** Intermittent fasting window tracking — recording when you eat and fast each day to build consistency with time-restricted eating protocols and surface patterns in fasting duration and goal adherence.
+
+## BreathLog (2026-06-22)
+**Description:** A macOS app that logs breathing exercise sessions — box breathing, 4-7-8, Wim Hof, alternate nostril, coherence, and more — recording rounds, duration, stress level before, and calm level after, with per-technique filtering and all-time average calm and stress-reduction stats.
+**Theme:** Breathing exercise tracking — logging each breathwork session and its before/after stress and calm ratings to build awareness of which techniques most effectively reduce tension and sharpen focus.
