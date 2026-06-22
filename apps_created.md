@@ -83,3 +83,7 @@
 ## ScreenLog (2026-06-22)
 **Description:** A macOS app that logs every app and website session with category (Social Media, Work, Entertainment, Gaming, etc.), duration, and a mindful vs. mindless purpose rating, showing a live usage ring against a configurable daily screen time limit with category and purpose breakdowns.
 **Theme:** Digital screen time diary — recording which apps and websites you use, for how long, and whether each session was intentional or automatic, to build self-awareness of digital habits and reduce mindless scrolling.
+
+## VoiceLog (2026-06-22)
+**Description:** A macOS app that logs every voice usage session — singing, public speaking, teaching, podcast recording, rehearsal, or long conversation — recording duration, vocal strain level (1–5), whether a warm-up was done, and hydration status, with today's total voice time and average strain tracked at a glance.
+**Theme:** Vocal health and voice usage tracking — logging how much you use your voice and how strained it feels each session, to help singers, teachers, and speakers protect their vocal health and spot overuse patterns.
