@@ -95,3 +95,7 @@
 ## BreathLog (2026-06-22)
 **Description:** A macOS app that logs breathing exercise sessions — box breathing, 4-7-8, Wim Hof, alternate nostril, coherence, and more — recording rounds, duration, stress level before, and calm level after, with per-technique filtering and all-time average calm and stress-reduction stats.
 **Theme:** Breathing exercise tracking — logging each breathwork session and its before/after stress and calm ratings to build awareness of which techniques most effectively reduce tension and sharpen focus.
+
+## NapLog (2026-06-23)
+**Description:** A macOS app that logs daytime nap and rest sessions — recording nap type (Power Nap, Coffee Nap, Full Cycle, Micro Nap, Yoga Nidra), duration, ease of falling asleep, and post-nap alertness, with today's count, average stats, best nap time of day, and a type-filtered history.
+**Theme:** Daytime nap quality tracking — logging each rest session's type, length, and before/after alertness to find your ideal nap window and build awareness of how different nap styles affect your energy and focus.
