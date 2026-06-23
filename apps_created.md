@@ -99,3 +99,7 @@
 ## NapLog (2026-06-23)
 **Description:** A macOS app that logs daytime nap and rest sessions — recording nap type (Power Nap, Coffee Nap, Full Cycle, Micro Nap, Yoga Nidra), duration, ease of falling asleep, and post-nap alertness, with today's count, average stats, best nap time of day, and a type-filtered history.
 **Theme:** Daytime nap quality tracking — logging each rest session's type, length, and before/after alertness to find your ideal nap window and build awareness of how different nap styles affect your energy and focus.
+
+## ChoreLog (2026-06-23)
+**Description:** A macOS app that logs completed household chores — selecting from 25 common tasks or entering a custom one, assigning a category (Kitchen, Bathroom, Bedroom, Living Room, Yard, Laundry, General), recording time spent and effort level (1–5), with today's task count and total time, weekly stats, category filters, and a day-grouped history.
+**Theme:** Household chore completion tracking — recording every domestic task you finish to build awareness of how much time and effort goes into maintaining your home.
