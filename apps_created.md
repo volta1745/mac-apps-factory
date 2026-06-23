@@ -107,3 +107,7 @@
 ## ColdLog (2026-06-23)
 **Description:** A macOS app that logs cold exposure sessions — cold showers, ice baths, cold plunges, outdoor swims, and winter exposure — recording type, duration, water temperature, and mood before and after each session, with a day streak, longest session stat, and mood-lift average across all entries.
 **Theme:** Cold exposure therapy tracking — logging each cold therapy session's type, duration, and temperature alongside pre/post mood ratings to build a consistent cold exposure habit and reveal how it affects mental wellbeing and energy.
+
+## DreamLog (2026-06-23)
+**Description:** A macOS dream journal app that logs dreams each morning with title, notes, dream type (Normal/Lucid/Recurring/Nightmare/Vivid/Prophetic/Abstract), emotional tone, clarity rating, and sleep quality, then surfaces insights via type and emotion breakdowns, a 7-night activity grid, and average clarity and sleep stats.
+**Theme:** Dream journaling — recording and categorizing dreams upon waking to build a personal dream catalog, surface recurring patterns, and explore the relationship between sleep quality and dream vividness over time.
