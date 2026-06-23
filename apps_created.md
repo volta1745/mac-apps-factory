@@ -103,3 +103,7 @@
 ## ChoreLog (2026-06-23)
 **Description:** A macOS app that logs completed household chores — selecting from 25 common tasks or entering a custom one, assigning a category (Kitchen, Bathroom, Bedroom, Living Room, Yard, Laundry, General), recording time spent and effort level (1–5), with today's task count and total time, weekly stats, category filters, and a day-grouped history.
 **Theme:** Household chore completion tracking — recording every domestic task you finish to build awareness of how much time and effort goes into maintaining your home.
+
+## ColdLog (2026-06-23)
+**Description:** A macOS app that logs cold exposure sessions — cold showers, ice baths, cold plunges, outdoor swims, and winter exposure — recording type, duration, water temperature, and mood before and after each session, with a day streak, longest session stat, and mood-lift average across all entries.
+**Theme:** Cold exposure therapy tracking — logging each cold therapy session's type, duration, and temperature alongside pre/post mood ratings to build a consistent cold exposure habit and reveal how it affects mental wellbeing and energy.
